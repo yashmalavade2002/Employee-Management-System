@@ -24,5 +24,5 @@ A modern full-stack web application to manage employee records efficiently using
 ---
 
 ## 📸 Snapshot
-
 ![App Screenshot](https://github.com/yashmalavade2002/Employee-Management-System/blob/616376e5c5b087922a9cc0b1d79ce2252775ea80/Screenshot%20(117).png)
+![App Screenshot](https://github.com/yashmalavade2002/Employee-Management-System/blob/b537d979c47e388b0dd45343488ba3442cd563d0/Screenshot%20(118).png)
